@@ -1,4 +1,4 @@
-<img src="Banniere" alt="Bannière de présentation" width="300"/>
+<img src="Banniere" alt="Bannière de présentation"/>
 
 # A propos
 
