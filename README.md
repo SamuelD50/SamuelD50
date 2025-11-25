@@ -2,10 +2,13 @@
 
 # A propos
 
-Bienvenue sur mon profil GitHub.<br/>
-Découvrez mes travaux et n'hésitez pas à me contacter pour échanger via les réseaux sociaux.<br/>
-Je suis actuellement à la fin de ma formation de développeur web qui viendra s'ajouter à mon BTS Communication. Je souhaiterais poursuivre mes études en bac+3 sur la partie React avec OpenClassrooms et je serais intéressé par une offre en alternance du côté de Cherbourg. Pendant mon temps libre, j'aime dessiner et créer de mes mains. J'aime donc la conception de site à la fois design (avec mon côté créatif) et efficace (avec mon côté rigoureux).<br/>
-A bientôt et bonne journée à vous !
+<p>Bienvenue sur mon profil GitHub !<br>
+Passionné par le développement web et mobile, je combine créativité et rigueur technique pour transformer des idées en applications fonctionnelles et performantes.</p>
+
+<p>Après un BTS Communication et un Bac +2 Développeur Web, j’ai terminé récemment un service civique où j’ai conçu une application mobile avec Flutter et Firebase. Aujourd’hui, je continue à l’améliorer en optimisant ses performances et son accessibilité, tout en élargissant mes compétences.</p>
+
+<p>N’hésitez pas à explorer mes projets et à me contacter pour échanger ou collaborer via les réseaux sociaux.<br>
+À bientôt et bonne découverte !</p>
 
 # Les technologies utilisées
 
